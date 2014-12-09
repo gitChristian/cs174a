@@ -6,6 +6,10 @@ Term Project for CS 174a
 Team 9
 Team Members: Joey Gomez-Benito, Chris Nersesyan, Zhen Liu, Yifan Wang
 
+Roles and Implementation:
+
+Joey - My main roles in this project were creating the environment, working on the controls for the plane, creating the scoring, making the crash popup menu, reloading the world, making the game fullscreen, css styling, and overall bug fixes. The environment is a giant cube with a texture map on the floor and the ceiling. The building and cubes are both translated back at the same rate. The controls were made by carefully rotating and translating the world and then rotating back. The scoring system was made through the use of javascript. The menu was made using HTML, CSS, javascript and jQuery. On restart, the world gets translated back into its original starting position. I also worked on fixing many bugs. One of the bigger ones I helped fix was loading the plane. 
+
 To run the program, open index.html.
 Right now, it only works on internet explorer and (75% sure) Safari.
 Use the arrow keys to move around the world and try to dodge the buildings. Have fun!
